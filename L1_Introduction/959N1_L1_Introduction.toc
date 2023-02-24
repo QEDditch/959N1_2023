@@ -1,0 +1,3 @@
+\beamer@sectionintoc {1}{Why network analysis?}{5}{0}{1}
+\beamer@sectionintoc {2}{Why infographics?}{27}{0}{2}
+\beamer@sectionintoc {3}{Overview of the module}{41}{0}{3}

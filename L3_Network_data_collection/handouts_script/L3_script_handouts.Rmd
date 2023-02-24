@@ -1,0 +1,83 @@
+---
+output:
+  html_document:
+    number_sections: yes
+  output: html_notebook
+  word_document: default
+author: "Dr Daniele Rotolo, SPRU Science Policy Research Unit, University of Sussex"
+title: '9595N1: Network Analysis and Infographics'
+---
+
+
+# Lecture 3 - R code in handouts
+This document reproduced the code included in the slides of the third lecture of Network Analysis and Infograohics.
+
+## Preparing the global enviroment
+We first clean our global enviroment, so to remove objects that may have been leaft from previous sessions in R.
+```{r}
+rm(list=ls())
+```
+
+## Variable analysis data: An example
+Executing the function `data()` we can explore the sample of datasets available in R. `Orange` is of these datasets and it includes information about growth of trees in terms of their circumference. We can recall this dataset and plot `age` and `circumference` variable, to seek for evidence of the relationship between these two varible. This would be a simple variable analysis.
+```{r}
+data()
+Orange
+plot(Orange$age, Orange$circumference)
+```
+
+
+## Network analysis data: An example
+The package `igraphdata` provides a few examples network data. One of this is the `UKfaculty` data on personal friendship in a UK faculty. We can load these data as well as the package `igraph`.
+```{r}
+library(igraphdata)
+library(igraph)
+data(UKfaculty)
+UKfaculty
+```
+
+This will allow us to retrieve the adjacency matrix.
+```{r}
+A <- get.adjacency(UKfaculty, sparse = F)
+A
+```
+
+With this comand we plot the network using the Kamada-Kaway layout
+```{r}
+ll <- layout_with_kk(UKfaculty)
+plot(UKfaculty,
+     layout = ll,
+     vertex.size = 10,
+     edge.arrow.size = 0.1)
+```
+
+
+
+```{r}
+library(tidyverse)
+library(readr)
+PR <- read_csv("proj_org.csv") %>%
+  separate_rows(Partners, 
+                sep = ";")
+PO <- table(PR$Project, 
+            PR$Partners)
+OO <- t(PO)%*%PO
+PP <- PO%*%t(PO)
+```
+
+
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Cmd+Option+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Cmd+Shift+K* to preview the HTML file). 
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
