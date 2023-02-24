@@ -1,0 +1,44 @@
+\begin{thebibliography}{}
+
+\bibitem[Callon et~al., 1983]{Callon1983}
+Callon, M., Courtial, J.-P., Turner, W.~A., and Bauin, S. (1983).
+\newblock {From translations to problematic networks: An introduction to
+  co-word analysis}.
+\newblock {\em Social Science Information}, 22(2):191--235.
+
+\bibitem[Garfield et~al., 1964]{Garfield1964}
+Garfield, E., Ph, D., Sher, I.~H., and Sc, D. (1964).
+\newblock {\em {the Use of Citation Data}}.
+\newblock Number~64. Institute for Scientific Information, Philadelphia.
+
+\bibitem[Kessler, 1963]{Kessler1963}
+Kessler, M. (1963).
+\newblock {Bibliographic Coupling Between Scientific Papers}.
+\newblock {\em American documentation}, 14(1):10--25.
+
+\bibitem[Rafols et~al., 2010]{Rafols2010}
+Rafols, I., Porter, A.~L., and Leydesdorff, L. (2010).
+\newblock {Science Overlay Maps: A new tool for research policy and library
+  management}.
+\newblock {\em Journal of the American Society for Information Science and
+  Technology (JASIST)}, 61(9):1871--1887.
+
+\bibitem[Rotolo et~al., 2015]{Rotolo2015}
+Rotolo, D., Hicks, D., and Martin, B.~R. (2015).
+\newblock {What is an emerging technology?}
+\newblock {\em Research Policy}, 44(10):1827--1843.
+
+\bibitem[Small, 1973]{Small1973}
+Small, H.~G. (1973).
+\newblock {Co-citation in the Scientific Literature : A New Measure of the
+  Relationship Between Two Documents}.
+\newblock {\em Journal of the American Society for Information Science},
+  24(4):265--269.
+
+\bibitem[van Eck and Waltman, 2010]{Eck2010}
+van Eck, N.~J. and Waltman, L. (2010).
+\newblock {Software survey: VOSviewer, a computer program for bibliometric
+  mapping}.
+\newblock {\em Scientometrics}, 84(2):523--538.
+
+\end{thebibliography}

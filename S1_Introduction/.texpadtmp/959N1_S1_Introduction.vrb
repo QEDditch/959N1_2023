@@ -1,0 +1,24 @@
+\frametitle{\insertsection}
+\begin{itemize}
+	\item \textbf{Books}
+		\begin{itemize}
+			\item \href{https://r4ds.had.co.nz/}{\underline{\smash{Harley Wickham - R for Data Science}}}: generic introduction to R and to the data analysis workflow
+			\item \href{https://serialmentor.com/dataviz/index.html}{\underline{\smash{Claus O. Wilke - Fundamentals of Data Visualisation}}}: mainly based on \verb|ggplot2|, an R package for data visualisation
+		\end{itemize}
+	\medskip
+	\item \textbf{Online courses:} a host of possible choices!
+		\begin{itemize}
+			\item \href{https://education.rstudio.com/learn/}{\underline{\smash{RStudio}}} official learning pathways
+			\item \href{https://www.linkedin.com/learning/me}{\underline{\smash{Linkedin Learning}}}
+			\item Coursera, EdX...
+		\end{itemize}
+	\medskip
+		\item \textbf{Online communities:} practical solutions to specific issues
+		 \begin{itemize}
+		 	\item \href{https://stackoverflow.com/questions/tagged/r}{\underline{\smash{StackOverFlow}}} - Q\&A about coding problems
+		 	\item \href{https://github.com/}{\underline{\smash{GitHub}}} - a bit more advanced, repository of routines
+		 \end{itemize}
+	\medskip
+	\item \textbf{Twitter:} \#rstats and @rstatstweet
+
+\end{itemize}

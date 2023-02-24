@@ -1,0 +1,63 @@
+\frametitle{\insertsection}
+	\framesubtitle{Network analysis: Affiliation networks}
+
+
+	\begin{columns}[c]
+
+		\column{.4\textwidth}
+		\begin{minipage}[c][.5\textheight][c]{\linewidth}
+
+			\begin{itemize}[<+->]
+				\item Data are often available in the form of {\color{blue}{affiliation networks}}
+				\item Such a format describes {\color{blue}{2-mode networks}}: individual-event, organization-R\&D alliance, researcher-publication, etc.
+				\item We need to transform these data before we can analyse them
+			\end{itemize}
+
+		\end{minipage}
+
+
+		\column{.6\textwidth}
+		\begin{minipage}[c][.5\textheight][c]{\linewidth}
+
+			\footnotesize
+			\centering
+			\begin{tabular}{lccccc}
+				\multicolumn{6}{c}{Case-affiliation {\color{blue}{adjacency matrix}}}\\
+				\toprule
+				&        &\multicolumn{4}{c}{Affiliation}\\
+
+				&        & $1$ & $2$ & $\cdots$ & $K$\\
+				\hline
+				&    $1$           \\
+				&    $2$           \\
+				Case    &    $\vdots$      \\
+				&    $N$           \\
+				\bottomrule
+			\end{tabular}
+
+
+			\medskip
+			\medskip
+			\medskip
+
+			\begin{tabular}{cc}
+				\multicolumn{2}{c}{Case-affiliation {\color{blue}{list}}}\\
+				\toprule
+				Case  & Affiliation\\
+				\hline
+				$1$           & $2$          \\
+				$2$           & $3$    \\
+				$\vdots$      & $\vdots$    \\
+				$n$           & $k$    \\
+				$\vdots$      & $\vdots$    \\
+				\bottomrule
+				\multicolumn{2}{l}{\tiny $n = \{1, 2, \cdots, N\}$}\\
+				\multicolumn{2}{l}{\tiny $k = \{1, 2, \cdots, K\}$}\\
+			\end{tabular}
+
+
+		\end{minipage}
+
+	\end{columns}
+
+

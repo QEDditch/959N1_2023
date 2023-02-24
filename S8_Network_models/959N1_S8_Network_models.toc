@@ -1,0 +1,2 @@
+\beamer@sectionintoc {2}{Modelling and inference of networks [recap]}{4}{0}{1}
+\beamer@sectionintoc {3}{Modelling and inference of networks in \textit {igraph}}{6}{0}{2}

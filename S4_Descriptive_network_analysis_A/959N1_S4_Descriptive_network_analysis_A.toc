@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Network-level measures [recap]}{4}{0}{1}
+\beamer@sectionintoc {2}{Network-level measures in \textit {igraph}}{6}{0}{2}

@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Brokerage measures [recap]}{4}{0}{1}
+\beamer@sectionintoc {2}{Brokerage measures in \textit {igraph}}{6}{0}{2}

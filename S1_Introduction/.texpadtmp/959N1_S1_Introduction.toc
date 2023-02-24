@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{The `old school' exercise}{4}{0}{1}
+\beamer@sectionintoc {2}{R, RStudio, and igraph}{13}{0}{2}
+\beamer@sectionintoc {3}{Ready ...?}{30}{0}{3}
+\beamer@sectionintoc {4}{Some useful (and freely available) resources to learn R}{33}{0}{4}

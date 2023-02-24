@@ -1,0 +1,2 @@
+\beamer@sectionintoc {2}{Innovation network [recap]}{4}{0}{1}
+\beamer@sectionintoc {3}{Introduction to VOSviewer}{6}{0}{2}

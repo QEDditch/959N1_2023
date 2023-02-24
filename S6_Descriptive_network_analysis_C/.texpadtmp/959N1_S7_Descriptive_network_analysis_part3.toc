@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Network-node measures (brokarage recap)}{4}{0}{1}
+\beamer@sectionintoc {2}{igraph functions for node-level measures}{5}{0}{2}

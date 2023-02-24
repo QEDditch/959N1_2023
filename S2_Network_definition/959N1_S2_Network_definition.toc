@@ -1,0 +1,3 @@
+\beamer@sectionintoc {2}{R objects}{7}{0}{1}
+\beamer@sectionintoc {3}{R operators}{36}{0}{2}
+\beamer@sectionintoc {4}{Importing/exporting data in R}{40}{0}{3}

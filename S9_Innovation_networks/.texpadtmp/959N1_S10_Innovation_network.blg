@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /its/home/dr213/Dropbox/--Teaching--/TB2_959N1_Network_analysis_and_infographics/959N1_2018_19_teaching_material/S10_Innovation_networks/.texpadtmp/959N1_S10_Innovation_network.aux
+The style file: apalike.bst
+Database file #1: ../../../../../../Dropbox/References/bibtex_references/library.bib.bib
+Warning--there's a number but no series in Garfield1964
+You've used 7 entries,
+            1935 wiz_defined-function locations,
+            528 strings with 5281 characters,
+and the built_in function-call counts, 2881 in all, are:
+= -- 289
+> -- 109
+< -- 4
++ -- 36
+- -- 36
+* -- 264
+:= -- 502
+add.period$ -- 22
+call.type$ -- 7
+change.case$ -- 52
+chr.to.int$ -- 7
+cite$ -- 8
+duplicate$ -- 98
+empty$ -- 206
+format.name$ -- 45
+if$ -- 554
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 8
+newline$ -- 38
+num.names$ -- 21
+pop$ -- 38
+preamble$ -- 1
+purify$ -- 53
+quote$ -- 0
+skip$ -- 72
+stack$ -- 0
+substring$ -- 240
+swap$ -- 8
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 40
+warning$ -- 1
+while$ -- 26
+width$ -- 0
+write$ -- 94
+(There was 1 warning)

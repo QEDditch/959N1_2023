@@ -1,0 +1,23 @@
+\frametitle{\insertsection}
+\framesubtitle{Installing igraph}
+
+Through the {\color{blue}{RStudio interface}}:\\
+\begin{enumerate}
+	\item Tools
+	\item Install Packages
+	\item Search for igraph
+	\item Tick the box ``Install Dependencies''
+	\item Install
+\end{enumerate}
+\medskip
+\medskip
+or\\
+\medskip
+\medskip
+Through the {\color{blue}{RStudio console}}
+
+\begin{lstlisting}[language=R]
+install.packages("igraph")
+library("igraph")
+\end{lstlisting}
+

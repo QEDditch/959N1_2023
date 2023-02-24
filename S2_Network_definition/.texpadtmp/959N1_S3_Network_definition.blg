@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /its/home/dr213/Dropbox/--Teaching--/TB2_959N1_Network_analysis_and_infographics/959N1_2018_19_teaching_material/S3_Network_definition/.texpadtmp/959N1_S3_Network_definition.aux
+The style file: apalike.bst
+I couldn't open database file /Users/danielerotolo/Dropbox/References/bibtex_references/library.bib.bib
+---line 88 of file /its/home/dr213/Dropbox/--Teaching--/TB2_959N1_Network_analysis_and_infographics/959N1_2018_19_teaching_material/S3_Network_definition/.texpadtmp/959N1_S3_Network_definition.aux
+ : \bibdata{/Users/danielerotolo/Dropbox/References/bibtex_references/library.bib
+ :                                                                               }
+I'm skipping whatever remains of this command
+I found no \citation commands---while reading file /its/home/dr213/Dropbox/--Teaching--/TB2_959N1_Network_analysis_and_infographics/959N1_2018_19_teaching_material/S3_Network_definition/.texpadtmp/959N1_S3_Network_definition.aux
+I found no database files---while reading file /its/home/dr213/Dropbox/--Teaching--/TB2_959N1_Network_analysis_and_infographics/959N1_2018_19_teaching_material/S3_Network_definition/.texpadtmp/959N1_S3_Network_definition.aux
+You've used 0 entries,
+            1935 wiz_defined-function locations,
+            471 strings with 4067 characters,
+and the built_in function-call counts, 17 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 0
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 2
+(There were 3 error messages)
