@@ -117,7 +117,7 @@ plot(g)
 
 #11.From dataframe to graph  ----------
 library(tidyverse)                                                      #A library for data wrangling
-PR <- read_csv("proj_org.csv") %>% separate_rows(Partners, sep = ";")   #Read dataframe and convert it to long format
+PR <- read_csv("C:/Users/David Eggleton/959N1_2023/S3_Network_data_collection/S3_R_script/proj_org.csv") %>% separate_rows(Partners, sep = ";")   #Read dataframe and convert it to long format
 PO <- as.matrix(table(PR$Project, PR$Partners))                         #Obtain project-organisation matrix from dataframe
 OO <- t(PO)%*%PO                                                        #Adjacency matrix (organisation-organisation)
 PP <- PO%*%t(PO)                                                        #Adjacency matrix (project-project)
